@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyLoginTextBox.qml</file>
+        <file>MyLoginStack.qml</file>
+        <file>Rect2.qml</file>
+        <file>icons/content_add.svg</file>
+    </qresource>
+</RCC>
